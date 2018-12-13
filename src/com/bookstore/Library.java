@@ -21,7 +21,7 @@ public class Library {
     System.out.println(book1.publisher);
     System.out.println(book1.isbn);
 
-	System.out.println("Testuje gita");
+
 
 
     }
